@@ -31,7 +31,7 @@
 <img align="left"
      src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" alt="Intellij idea logo" title="Intellij idea" width="25" height="25" />
 
-<br>
+<br />
 
 ## 📖 Currently Learning (I continue to improve myself)
 

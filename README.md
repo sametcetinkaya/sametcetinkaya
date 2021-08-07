@@ -2,16 +2,14 @@
 
 ## Junior Android Developer
 
-### Reach me
+## Reach me
 
 [<img height="24" width="24" align= "center" src="image/linkedin.png"/>][linkedln]
 [<img height="24" width="24" align= "center" src="image/medium.png"/>][medium]
 [<img height="24" width="24" align= "center" src="image/twitter.png"/>][twitter]
 [<img height="24" width="24" align= "center" src="image/email.png"/>](mailto:samet.ctnky35@gmail.com)
-
 <br />
 <br />
-
 ## Tech I use
 <img align="left"
      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin logo" title="kotlin"  height="25"/>

@@ -21,7 +21,6 @@
      src="https://img.shields.io/badge/C%23-239120?color=272D2D&logo=c-sharp&logoColor=purple" alt="c-sharp logo" title="c-sharp"  height="25"/>
 <img align="left"
      src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
 
 <br>
 <br>

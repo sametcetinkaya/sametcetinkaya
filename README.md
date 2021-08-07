@@ -4,10 +4,10 @@
 
 ### Reach me
 
-[<img height="24" width="24" align= "center" src="img/linkedin.png"/>][linkedln]
-[<img height="24" width="24" align= "center" src="img/medium.png"/>][medium]
-[<img height="24" width="24" align= "center" src="img/twitter.png"/>][twitter]
-[<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:samet.ctnky35@gmail.com)
+[<img height="24" width="24" align= "center" src="image/linkedin.png"/>][linkedln]
+[<img height="24" width="24" align= "center" src="image/medium.png"/>][medium]
+[<img height="24" width="24" align= "center" src="image/twitter.png"/>][twitter]
+[<img height="24" width="24" align= "center" src="image/email.png"/>](mailto:samet.ctnky35@gmail.com)
 
 <br />
 <br />

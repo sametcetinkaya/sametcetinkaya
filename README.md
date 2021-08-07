@@ -6,15 +6,20 @@
 
 [<img height="24" width="24" align= "center" src="img/linkedin.png"/>][linkedln]
 [<img height="24" width="24" align= "center" src="img/medium.png"/>][medium]
+[<img height="24" width="24" align= "center" src="img/twitter.png"/>][twitter]
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:samet.ctnky35@gmail.com)
 
 
 
 ## Tech I use
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin logo" title="kotlin"  height="25"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?color=272D2D&logo=java&logoColor=orange" alt="java logo" title="java"  height="25"/>
-<img src="https://img.shields.io/badge/C%23-239120?color=272D2D&logo=c-sharp&logoColor=purple" alt="c-sharp logo" title="c-sharp"  height="25"/>
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img align="left"
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="kotlin logo" title="kotlin"  height="25"/>
+<img align="left"
+     src="https://img.shields.io/badge/Java-ED8B00?color=272D2D&logo=java&logoColor=orange" alt="java logo" title="java"  height="25"/>
+<img align="left"
+     src="https://img.shields.io/badge/C%23-239120?color=272D2D&logo=c-sharp&logoColor=purple" alt="c-sharp logo" title="c-sharp"  height="25"/>
+<img align="left"
+     src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
 
 <br>

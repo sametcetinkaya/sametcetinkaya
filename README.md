@@ -9,7 +9,8 @@
 [<img height="24" width="24" align= "center" src="img/twitter.png"/>][twitter]
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:samet.ctnky35@gmail.com)
 
-
+<br />
+<br />
 
 ## Tech I use
 <img align="left"

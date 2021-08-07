@@ -50,6 +50,7 @@
 <img align="left"
      src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
+<br>
 ![](https://komarev.com/ghpvc/?username=sametcetinkaya)
 
 ![BatuhanB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametcetinkaya&show_icons=true&theme=radical)

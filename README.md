@@ -1,6 +1,6 @@
 ### Hi there, I'm Samet 👋
-- I'm a junior developer
-- I am studying Computer Engineering
+
+## I'm a junior developer
 
 ### Reach me
 

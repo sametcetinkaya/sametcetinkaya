@@ -55,9 +55,9 @@
 
 <br />
 
-![BatuhanB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametcetinkaya&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametcetinkaya&theme=radical)](https://github.com/batuhanb/github-readme-stats)
+
+![BatuhanB's GitHub stats](https://github-readme-stats.vercel.app/api?username=sametcetinkaya&show_icons=true&theme=radical)
 
 [linkedln]:https://www.linkedin.com/in/samet-cetinkaya
 [medium]:https://medium.com/@samet.ctnky35

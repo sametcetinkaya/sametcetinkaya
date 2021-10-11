@@ -1,6 +1,6 @@
 ### Hi there, I'm Samet 👋
 
-## Android Developer
+## Jr. Android Developer
 
 ## Reach me
 
@@ -31,7 +31,7 @@
 
 <br />
 
-## 📖 Currently Learning (I continue to improve myself)
+## 📖 Currently Learning
 
 <img align="left"
      src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>

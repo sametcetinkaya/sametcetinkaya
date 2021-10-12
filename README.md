@@ -44,7 +44,7 @@
 <img align="left"
      src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-
+<br />
 
 
 [linkedln]:https://www.linkedin.com/in/samet-cetinkaya

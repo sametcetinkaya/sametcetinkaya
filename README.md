@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufcancakmak&show_icons=true&locale=en&layout=compact" alt="sametcetinkaya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufcancakmak&show_icons=true&locale=en" alt="sametcetinkaya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sametcetinkaya&show_icons=true&locale=en" alt="sametcetinkaya" /></p>
 
 <br />
 

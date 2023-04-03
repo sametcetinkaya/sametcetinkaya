@@ -1,6 +1,6 @@
 ### Hi there, I'm Samet 👋
 
-## Jr. Android Developer
+## Android Developer
 
 ## Contact with me
 
